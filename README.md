@@ -7,8 +7,8 @@
 ## Current Projects
 
 - 📻 **[The Archive of American Radio](https://radioalmanac.org)** - iOS app preserving 100+ years of American radio history (SwiftUI, Turso, Cloudflare Workers, R2)
-- 🌐 **[mikevincent.dev](https://mikevincent.dev)** - Personal site with Python deep-dives
 - 🐍 **[Quark's Outlines](https://github.com/mike-vincent/quarks-outlines)** - Python articles and technical writing
+- 🌐 **[mikevincent.dev](https://mikevincent.dev)** - Personal site with Python deep-dives
 - 🛒 **[instacart-order-history-download](https://github.com/mike-vincent/instacart-order-history-download)** - Export your Instacart order history
 
 ## Stack
