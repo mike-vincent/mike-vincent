@@ -1,6 +1,6 @@
 # Hi, I'm Mike
 
-📍 **Los Angeles** | 📻 **Building The Archive of American Radio** | ⚙️ **Ex-PwC, Cubic**
+📍 **Los Angeles** | 📻 **Building The Archive of American Radio** | ⚙️ **PwC**
 
 > Shipping apps that bring forgotten audio back to life. Previously platform engineering at scale—now making old time radio accessible to everyone.
 
