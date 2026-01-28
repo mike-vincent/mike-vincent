@@ -12,3 +12,7 @@
 - 📻 **[The Archive of American Radio, Inc.](https://radioalmanac.org)** - 501(c)(3) tax-exempt nonprofit preserving American radio dramas
 - 🎬 **[Io Pictures Corporation](https://www.iopictures.com)** - Buys rights to movies and TV shows and sells to streaming platforms
 - 🌐 **[mikevincent.dev](https://mikevincent.dev)** - Personal site
+
+## My Favorite Tools
+
+[Cloudflare](https://cloudflare.com) · [Fly.io](https://fly.io) · [Modal](https://modal.com) · [Turso](https://turso.tech) · [Resend](https://resend.com) · [ElevenLabs](https://elevenlabs.io) · [Vercel](https://vercel.com) · [OpenAI](https://openai.com)
