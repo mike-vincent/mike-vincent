@@ -15,4 +15,12 @@
 
 ## My Favorite Tools
 
-[Cloudflare](https://cloudflare.com) · [Fly.io](https://fly.io) · [Modal](https://modal.com) · [Turso](https://turso.tech) · [Resend](https://resend.com) · [ElevenLabs](https://elevenlabs.io) · [Vercel](https://vercel.com) · [OpenAI](https://openai.com)
+- [Anthropic](https://anthropic.com)
+- [Cloudflare](https://cloudflare.com)
+- [ElevenLabs](https://elevenlabs.io)
+- [Fly.io](https://fly.io)
+- [Modal](https://modal.com)
+- [OpenAI](https://openai.com)
+- [Resend](https://resend.com)
+- [Turso](https://turso.tech)
+- [Vercel](https://vercel.com)
