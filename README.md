@@ -20,6 +20,7 @@
 - [Cloudflare](https://cloudflare.com)
 - [ElevenLabs](https://elevenlabs.io)
 - [Fly.io](https://fly.io)
+- [Google Cloud](https://cloud.google.com)
 - [MacBook Pro](https://apple.com/macbook-pro)
 - [Modal](https://modal.com)
 - [OpenAI](https://openai.com)
