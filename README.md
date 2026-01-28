@@ -25,5 +25,7 @@
 - [Modal](https://modal.com)
 - [OpenAI](https://openai.com)
 - [Resend](https://resend.com)
+- [SwiftUI](https://developer.apple.com/xcode/swiftui)
+- [TestFlight](https://developer.apple.com/testflight)
 - [Turso](https://turso.tech)
 - [Vercel](https://vercel.com)
