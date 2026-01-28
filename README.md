@@ -13,7 +13,7 @@
 - 🛒 **[instacart-order-history-download](https://mike-vincent.github.io/instacart-order-history-download/)** - Find how much you spent on bacon in 2020. Download your Instacart order history.
 - 🌐 **[mikevincent.dev](https://mikevincent.dev)** - Personal site.
 - 🕰️ **[wgshs.itgo.com](http://wgshs.itgo.com)** - Website I made in 1999, still up.
-- 💼 **[LinkedIn](https://linkedin.com/in/michael-thomas-vincent)** - Find me on LinkedIn.com
+- 💼 **[LinkedIn](https://linkedin.com/in/michael-thomas-vincent)** - Find me on LinkedIn
 
 ## My Favorite Things
 
