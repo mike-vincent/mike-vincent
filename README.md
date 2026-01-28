@@ -2,7 +2,7 @@
 
 📍 **Los Angeles** | 📻 **Building The Archive of American Radio** | ⚙️ **PwC**
 
-> Full-stack engineer, always building something. I spend days in a terminal multiplexer with LLMs now and love it.
+> Full-stack engineer. I live in a terminal with LLMs and ship things.
 
 ## Current Projects
 
@@ -15,6 +15,7 @@
 
 ## My Favorite Things
 
+- 50" TV running a terminal multiplexer
 - [Anthropic](https://anthropic.com)
 - [AssemblyAI](https://assemblyai.com)
 - [Cloudflare](https://cloudflare.com)
