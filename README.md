@@ -10,7 +10,7 @@
 - ⏱️ **[Timer Fantasy](https://timerfantasy.com)** - macOS menu bar app for analog timers with iCloud sync
 - 📻 **[The Archive of American Radio, Inc.](https://radioalmanac.org)** - 501(c)(3) tax-exempt nonprofit preserving American radio dramas
 - 🎬 **[Io Pictures Corporation](https://www.iopictures.com)** - Buys rights to movies and TV shows and sells to streaming platforms
-- 🛒 **[instacart-order-history-download](https://github.com/mike-vincent/instacart-order-history-download)** - Export your Instacart order history
+- 🛒 **[instacart-order-history-download](https://github.com/mike-vincent/instacart-order-history-download)** - Curious how much you're spending on bacon? Download your Instacart order history
 - 🌐 **[mikevincent.dev](https://mikevincent.dev)** - Personal site
 
 ## Stack
