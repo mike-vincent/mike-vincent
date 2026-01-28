@@ -13,7 +13,7 @@
 - 🎬 **[Io Pictures Corporation](https://www.iopictures.com)** - Buys rights to movies and TV shows and sells to streaming platforms
 - 🌐 **[mikevincent.dev](https://mikevincent.dev)** - Personal site
 
-## My Favorite Tools
+## My Favorite Things
 
 - [Anthropic](https://anthropic.com)
 - [AssemblyAI](https://assemblyai.com)
