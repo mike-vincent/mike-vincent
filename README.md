@@ -16,9 +16,11 @@
 ## My Favorite Tools
 
 - [Anthropic](https://anthropic.com)
+- [AssemblyAI](https://assemblyai.com)
 - [Cloudflare](https://cloudflare.com)
 - [ElevenLabs](https://elevenlabs.io)
 - [Fly.io](https://fly.io)
+- [MacBook Pro](https://apple.com/macbook-pro)
 - [Modal](https://modal.com)
 - [OpenAI](https://openai.com)
 - [Resend](https://resend.com)
