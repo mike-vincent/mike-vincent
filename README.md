@@ -2,7 +2,7 @@
 
 📍 **Los Angeles** | 📻 **Building The Archive of American Radio** | ⚙️ **PwC**
 
-> Full-stack engineer. I live in a terminal with LLMs and ship things.
+> Full-stack engineer. I love terminals. LLMs. Multiplexers. Design. And making apps!
 
 ## Current Projects
 
