@@ -15,7 +15,7 @@
 
 ## My Favorite Things
 
-- 50" TV running a terminal multiplexer
+- [50" TV running a terminal multiplexer](https://github.com/tmux/tmux)
 - [Anthropic](https://anthropic.com)
 - [AssemblyAI](https://assemblyai.com)
 - [Cloudflare](https://cloudflare.com)
