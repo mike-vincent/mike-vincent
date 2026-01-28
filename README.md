@@ -6,9 +6,10 @@
 
 ## Current Projects
 
-- 🐍 **[Quark's Outlines](https://github.com/mike-vincent/quarks-outlines)** - Python articles and technical writing
+- 🐍 **[Quark's Outlines](https://dev.to/mike-vincent)** - Beginner's guide to all of Python
 - ⏱️ **[Timer Fantasy](https://timerfantasy.com)** - macOS menu bar app for analog timers with iCloud sync
-- 📻 **[The Archive of American Radio](https://radioalmanac.org)** - iOS app preserving 100+ years of American radio history (SwiftUI, Turso, Cloudflare Workers, R2)
+- 📻 **[The Archive of American Radio](https://radioalmanac.org)** - 501(c)(3) tax-exempt nonprofit preserving American radio dramas
+- 🎬 **[ioPictures](https://iopictures.com)** - Acquires rights to movies and TV shows for streaming platforms
 - 🛒 **[instacart-order-history-download](https://github.com/mike-vincent/instacart-order-history-download)** - Export your Instacart order history
 - 🌐 **[mikevincent.dev](https://mikevincent.dev)** - Personal site
 
