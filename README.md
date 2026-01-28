@@ -30,3 +30,4 @@
 - [TestFlight](https://developer.apple.com/testflight)
 - [Turso](https://turso.tech)
 - [Vercel](https://vercel.com)
+- [Warp](https://warp.dev) (with AI features off)
