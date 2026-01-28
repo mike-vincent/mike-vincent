@@ -9,7 +9,7 @@
 - 🐍 **[Quark's Outlines](https://dev.to/mike-vincent)** - Beginner's guide to all of Python
 - ⏱️ **[timerfantasy.com](https://timerfantasy.com)** - Timer Fantasy, macOS menu bar app for analog timers with iCloud sync
 - 📻 **[archiveofamericanradio.org](https://archiveofamericanradio.org)** - The Archive of American Radio, Inc., 501(c)(3) tax-exempt nonprofit preserving American radio dramas
-- 🎬 **[iopictures.com](https://iopictures.com)** - Io Pictures Corporation, buys rights to movies and TV shows and sells to streaming platforms
+- 🎬 **[iopictures.com](https://iopictures.com)** - Io Pictures Corporation, buy movie rights and license to streaming
 - 🛒 **[instacart-order-history-download](https://mike-vincent.github.io/instacart-order-history-download/)** - Find how much you spent on bacon in 2020. Download your Instacart order history
 - 🌐 **[mikevincent.dev](https://mikevincent.dev)** - Personal site
 - 🕰️ **[wgshs.itgo.com](http://wgshs.itgo.com)** - Website I made in 1999, still up
