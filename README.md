@@ -7,10 +7,10 @@
 ## Current Projects
 
 - 🐍 **[Quark's Outlines](https://dev.to/mike-vincent)** - Beginner's guide to all of Python
-- ⏱️ **[Timer Fantasy](https://timerfantasy.com)** - macOS menu bar app for analog timers with iCloud sync
+- ⏱️ **[timerfantasy.com](https://timerfantasy.com)** - Timer Fantasy, macOS menu bar app for analog timers with iCloud sync
 - 🛒 **[instacart-order-history-download](https://mike-vincent.github.io/instacart-order-history-download/)** - Curious how much you're spending on bacon? Download your Instacart order history
-- 📻 **[The Archive of American Radio, Inc.](https://radioalmanac.org)** - 501(c)(3) tax-exempt nonprofit preserving American radio dramas
-- 🎬 **[Io Pictures Corporation](https://www.iopictures.com)** - Buys rights to movies and TV shows and sells to streaming platforms
+- 📻 **[archiveofamericanradio.org](https://archiveofamericanradio.org)** - The Archive of American Radio, Inc., 501(c)(3) tax-exempt nonprofit preserving American radio dramas
+- 🎬 **[iopictures.com](https://iopictures.com)** - Io Pictures Corporation, buys rights to movies and TV shows and sells to streaming platforms
 - 🌐 **[mikevincent.dev](https://mikevincent.dev)** - Personal site
 - 🕰️ **[wgshs.itgo.com](http://wgshs.itgo.com)** - Website I made in 1999, still up
 
