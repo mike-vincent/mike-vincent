@@ -2,7 +2,7 @@
 
 📍 **Los Angeles** | 📻 **Building The Archive of American Radio** | ⚙️ **PwC**
 
-> Shipping apps that bring forgotten audio back to life. Previously platform engineering at scale—now making old time radio accessible to everyone.
+> Full-stack engineer, always building something. I spend days in a terminal multiplexer with LLMs now and love it.
 
 ## Current Projects
 
