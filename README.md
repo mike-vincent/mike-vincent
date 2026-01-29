@@ -23,6 +23,7 @@ Full-stack engineer. I love terminals. LLMs. Multiplexers. Design. And building 
 - [Anthropic](https://anthropic.com)
 - [AssemblyAI](https://assemblyai.com)
 - [Cloudflare](https://cloudflare.com)
+- [Deepgram](https://deepgram.com)
 - [ElevenLabs](https://elevenlabs.io)
 - [Fly.io](https://fly.io)
 - [Google Cloud](https://cloud.google.com)
