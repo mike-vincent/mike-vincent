@@ -8,6 +8,7 @@ Full-stack engineer. I love terminals. LLMs. Multiplexers. Design. And building 
 
 ## Current Projects
 
+- 👨‍💻 **[GitHub Profile Page](https://github.com/mike-vincent)** - Click to see what I'm building.
 - 🐍 **[Quark's Outlines](https://dev.to/mike-vincent)** - Beginner's guide to all of Python.
 - ⏱️ **[timerfantasy.com](https://timerfantasy.com)** - Timer Fantasy, macOS timer app with iCloud sync.
 - 📻 **[archiveofamericanradio.org](https://archiveofamericanradio.org)** - The Archive of American Radio, Inc., 501(c)(3) tax-exempt nonprofit preserving American radio dramas.
