@@ -4,7 +4,7 @@
 
 📍 **Los Angeles** | 📻 **Building The Archive of American Radio** | ⚙️ **PwC**
 
-Full-stack engineer. Tokenization and payments infrastructure for Capital One. Fare collection systems at scale for NYC MTA, DC Metro, BART, and LA Metro. Regulated federal platforms for U.S. Courts CM/ECF, HUD, and National Poison Control Center. Enterprise software for Fannie Mae, Lockheed Martin, Canadian Tire, U.S. Conference of Catholic Bishops, and Christian Scientist Reader for the Teachings of Mrs. Mary Baker Eddy.
+Full-stack engineer across web, native iOS, native Android, and hybrid mobile. Tokenization and payments infrastructure for Capital One. Fare collection systems at scale for NYC MTA, DC Metro, BART, and LA Metro. Mobile apps and regulated federal platforms for National Poison Control Center, U.S. Courts CM/ECF, and HUD. Enterprise software on Sitecore, Hybris, and Drupal for Fannie Mae, Lockheed Martin, Canadian Tire, U.S. Conference of Catholic Bishops, and Christian Scientist Reader for the Teachings of Mrs. Mary Baker Eddy.
 
 ## Current Projects
 
