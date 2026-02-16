@@ -4,7 +4,7 @@
 
 📍 **Los Angeles** | 📻 **Building The Archive of American Radio** | ⚙️ **PwC**
 
-Full-stack engineer. Payments infrastructure and tokenization for Capital One. Transit fare systems for NYC MTA, DC Metro, BART, and LA Metro. Enterprise apps for Fannie Mae, Lockheed Martin, Canadian Tire, U.S. Courts CM/ECF, HUD Capital Needs Assessment, U.S. Conference of Catholic Bishops, and Christian Scientist Reader for the Teachings of Mrs. Mary Baker Eddy.
+Full-stack engineer. I build the software that institutions run on. Payments infrastructure for Capital One. Transit fare systems for NYC MTA, DC Metro, BART, and LA Metro. Federal platforms for U.S. Courts CM/ECF and HUD. Enterprise software for Fannie Mae, Lockheed Martin, Canadian Tire, U.S. Conference of Catholic Bishops, and Christian Scientist Reader for the Teachings of Mrs. Mary Baker Eddy.
 
 ## Current Projects
 
