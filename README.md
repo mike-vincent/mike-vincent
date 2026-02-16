@@ -4,7 +4,7 @@
 
 📍 **Los Angeles** | 📻 **Building The Archive of American Radio** | ⚙️ **PwC**
 
-Full-stack engineer. I love terminals. LLMs. Multiplexers. Design. And building apps that solve problems.
+Full-stack engineer building payments infrastructure. Shipped tokenization platforms for Capital One, transit fare systems for NYC MTA, DC Metro, BART, and LA Metro, and apps for Fannie Mae, Lockheed Martin, and Canadian Tire.
 
 ## Current Projects
 
