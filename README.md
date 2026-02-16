@@ -4,7 +4,7 @@
 
 📍 **Los Angeles** | 📻 **Building The Archive of American Radio** | ⚙️ **PwC**
 
-Full-stack engineer building payments infrastructure. Shipped tokenization platforms for Capital One, transit fare systems for NYC MTA, DC Metro, BART, and LA Metro, and apps for Fannie Mae, Lockheed Martin, and Canadian Tire.
+Full-stack engineer. Payments infrastructure and tokenization for Capital One. Transit fare systems for NYC MTA, DC Metro, BART, and LA Metro. Enterprise apps for Fannie Mae, Lockheed Martin, and Canadian Tire.
 
 ## Current Projects
 
