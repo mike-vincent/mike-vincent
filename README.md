@@ -2,7 +2,7 @@
 
 Software engineer. Payments, banking, and infrastructure.
 
-Founder of [Radio Index](https://radioindex.org), a 501(c)(3) nonprofit that preserves and provides reliable access to historical American radio programs.
+Building [Radio Index](https://radioindex.org), an app that preserves and provides reliable access to historical American radio programs. A project of [The Archive of American Radio, Inc.](https://archiveofamericanradio.org), a 501(c)(3) nonprofit.
 
 Los Angeles. Currently at **PwC**.
 
