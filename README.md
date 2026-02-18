@@ -8,7 +8,7 @@ Software engineer at [PwC](https://www.pwc.com) in Los Angeles, working on payme
 
 An app that preserves and provides reliable access to historical American radio programs. A project of [The Archive of American Radio, Inc.](https://archiveofamericanradio.org), a 501(c)(3) nonprofit.
 
-## Writing
+## Python Articles
 
 [Quark's Outlines](https://dev.to/mike-vincent/series/31181), a beginner's guide to Python.
 
