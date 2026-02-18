@@ -12,6 +12,10 @@ An app that preserves and provides reliable access to historical American radio 
 
 [Quark's Outlines](https://dev.to/mike-vincent/series/31181), a beginner's guide to Python.
 
+## Timer Fantasy
+
+Beautiful analog timers for your Mac. Set timers with a drag on an elegant clock face, track countdowns from your menu bar.
+
 ## Portfolio
 
 [mikevincent.dev](https://mikevincent.dev)
