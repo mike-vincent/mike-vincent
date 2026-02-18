@@ -2,16 +2,16 @@
 
 ## About Me
 
-Software engineer at PwC in Los Angeles, working on payments, banking, and infrastructure.
+Software engineer at [PwC](https://www.pwc.com) in Los Angeles, working on payments, banking, and infrastructure.
 
 ## Radio Index
 
-An app that preserves and provides reliable access to historical American radio programs. A project of The Archive of American Radio, Inc., a 501(c)(3) nonprofit.
+An app that preserves and provides reliable access to historical American radio programs. A project of [The Archive of American Radio, Inc.](https://archiveofamericanradio.org), a 501(c)(3) nonprofit.
 
 ## Writing
 
-Quark's Outlines, a beginner's guide to Python.
+[Quark's Outlines](https://quarksoutlines.com), a beginner's guide to Python.
 
 ## Portfolio
 
-mikevincent.dev
+[mikevincent.dev](https://mikevincent.dev)
