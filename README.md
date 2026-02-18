@@ -2,7 +2,7 @@
 
 ## About Me
 
-Software engineer at PwC. Payments, banking, and infrastructure. Los Angeles.
+Software engineer at PwC in Los Angeles, working on payments, banking, and infrastructure.
 
 ## Radio Index
 
