@@ -10,7 +10,7 @@ An app that preserves and provides reliable access to historical American radio 
 
 ## Writing
 
-[Quark's Outlines](https://quarksoutlines.com), a beginner's guide to Python.
+[Quark's Outlines](https://dev.to/mike-vincent/series/31181), a beginner's guide to Python.
 
 ## Portfolio
 
