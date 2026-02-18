@@ -1,6 +1,6 @@
 # Mike Vincent
 
-## About Me
+## About Mike
 
 Software engineer at [PwC](https://www.pwc.com) in Los Angeles, working on payments, banking, and infrastructure.
 
@@ -16,6 +16,6 @@ An app that preserves and provides reliable access to historical American radio 
 
 [mikevincent.dev](https://mikevincent.dev)
 
-## GitHub
+## GitHub Profile
 
 [github.com/mike-vincent](https://github.com/mike-vincent)
