@@ -20,6 +20,14 @@ Beautiful analog timers for your Mac. Set timers with a drag on an elegant clock
 
 [mikevincent.dev](https://mikevincent.dev)
 
-## GitHub Profile
+## GitHub
 
 [github.com/mike-vincent](https://github.com/mike-vincent)
+
+## LinkedIn
+
+[linkedin.com/in/michael-thomas-vincent](https://www.linkedin.com/in/michael-thomas-vincent/)
+
+## Io Pictures
+
+Motion picture distribution.
