@@ -4,6 +4,14 @@
 
 Software engineer at [PwC](https://www.pwc.com) in Los Angeles, working on payments, banking, and infrastructure.
 
+## LinkedIn
+
+[linkedin.com/in/michael-thomas-vincent](https://www.linkedin.com/in/michael-thomas-vincent/)
+
+## GitHub
+
+[github.com/mike-vincent](https://github.com/mike-vincent)
+
 ## Radio Index
 
 An app that preserves and provides reliable access to historical American radio programs. A project of [The Archive of American Radio, Inc.](https://archiveofamericanradio.org), a 501(c)(3) nonprofit.
@@ -19,14 +27,6 @@ Beautiful analog timers for your Mac. Set timers with a drag on an elegant clock
 ## Portfolio
 
 [mikevincent.dev](https://mikevincent.dev)
-
-## GitHub
-
-[github.com/mike-vincent](https://github.com/mike-vincent)
-
-## LinkedIn
-
-[linkedin.com/in/michael-thomas-vincent](https://www.linkedin.com/in/michael-thomas-vincent/)
 
 ## Io Pictures
 
